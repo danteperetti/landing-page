@@ -45,8 +45,10 @@ a {
     justify-content: space-evenly;
 }
 
-.text-content {
-
+.content-header {
+    font-size: 48px;
+    font-weight: 900;
+    color: #F9FAF8;
 }
 
 .image-content {
