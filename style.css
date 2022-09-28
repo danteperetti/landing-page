@@ -51,6 +51,11 @@ a {
     color: #F9FAF8;
 }
 
+.content-body {
+    font-size: 18px;
+    color: #E5E7EB;
+}
+
 .image-content {
     width: 250px;
 }
