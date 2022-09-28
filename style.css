@@ -19,6 +19,8 @@ body {
 .header {
     display: flex;
     justify-content: space-between;
+    align-items: center;
+    padding: 24px;
 }
 
 .header-logo {
@@ -28,6 +30,8 @@ body {
 
 ul {
     list-style-type: none;
+    display: flex;
+    gap: 18px;
 }
 
 a {
