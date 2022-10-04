@@ -12,7 +12,7 @@ body {
 }
 
 .hero, .information, .quote-container {
-    height: 450px;
+    height: 600px;
 }
 
 .hero {
@@ -48,7 +48,7 @@ a {
     display: flex;
     justify-content: space-evenly;
     align-items: center;
-    height: 300px;
+    height: 400px;
 }
 
 .content-header {
@@ -99,4 +99,26 @@ button {
 .pic {
     width: 250px;
     height: 250px;
+}
+
+.quote-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #E5E7EB;
+}
+
+.quote-content {
+    text-align: right;
+    color: #1F2937;
+}
+
+.quote {
+    font-size: 36px;
+}
+
+.author {
+    margin: 16px 0 0 0;
+    font-weight: 900;
+    font-size: 24px;
 }
