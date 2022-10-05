@@ -62,6 +62,7 @@ button {
     background-color: #3882F6;
     border-color: #3882F6;
     padding: 0 20px 0 20px;
+    border-radius: 5px;
 }
 
 .content-body {
@@ -72,6 +73,7 @@ button {
 
 .image-content {
     width: 350px;
+    border-radius: 20px;
 }
 
 .hero, .footer {
@@ -101,6 +103,7 @@ button {
 .pic {
     width: 350px;
     height: 350px;
+    border-radius: 20px;
 }
 
 .quote-container {
@@ -150,4 +153,8 @@ button {
     color: #E5E7EB;
     border-color: #E5E7EB;
     border-radius: 10px;
+}
+
+.footer {
+    color: #E5E7EB;
 }
