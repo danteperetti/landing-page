@@ -122,3 +122,18 @@ button {
     font-weight: 900;
     font-size: 24px;
 }
+
+.cta-container {
+    height: 450px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.cta-content {
+    width: 800px;
+}
+
+.call-to-action {
+    display: flex;
+}
