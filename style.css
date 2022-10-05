@@ -157,4 +157,8 @@ button {
 
 .footer {
     color: #E5E7EB;
+    height: 75px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
