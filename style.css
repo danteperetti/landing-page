@@ -130,10 +130,10 @@ button {
     align-items: center;
 }
 
-.cta-content {
-    width: 800px;
-}
-
 .call-to-action {
+    width: 800px;
+    background-color: #3882F6;
     display: flex;
+    justify-content: space-around;
+    padding: 24px;
 }
